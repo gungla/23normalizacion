@@ -1,0 +1,14 @@
+.allMensajes :first-child{
+    display: inline-block;
+    font-weight: bold;
+    color:blue
+}
+
+.allMensajes :nth-child(2){
+    color:  #804000;
+}
+
+.allMensajes :nth-child(3){
+    color: green;
+    font-style: italic;
+}

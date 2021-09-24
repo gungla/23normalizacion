@@ -1,0 +1,6 @@
+{
+    "PORT": 8080,
+    "MONGO_URL_DB_LOCAL": "mongodb://localhost:27017/autor",
+    "MONGO_URL_NUBE": "mongodb://gungla:gungla@cluster0-shard-00-00.4lhuy.mongodb.net:27017,cluster0-shard-00-01.4lhuy.mongodb.net:27017,cluster0-shard-00-02.4lhuy.mongodb.net:27017/test?replicaSet=atlas-db25rm-shard-0&ssl=true&authSource=admin"
+}
+
